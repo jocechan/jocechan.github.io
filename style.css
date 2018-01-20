@@ -1,0 +1,37 @@
+.name {
+	color: PaleTurquoise ;
+	font-size: 60px;
+}
+
+.help {
+	background-color: white;
+}
+
+p {
+	font-size: 20px;
+}
+
+h1 {
+	font-family: 'Architects Daughter', cursive;
+	font-size: 20px;
+}
+.navbar-brand {
+	
+	font-family: 'Handlee', cursive;
+	font-size: 30px;
+}
+
+.sr-only {
+	font-family: 'Handlee', cursive;
+	font-size: 30px;
+}
+
+.active {
+	font-family: 'Handlee', cursive;
+	font-size: 30px;
+}
+
+.nav {
+	font-family: 'Handlee', cursive;
+	font-size: 30px;
+}
